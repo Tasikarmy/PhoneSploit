@@ -7,8 +7,8 @@ def mengetik(s):
         sys.stdout.flush()
         time.sleep(random.random() * 0.2)
 mengetik('Menginstall Tols.....')
-clear
+mengetik('..........................')
 mengetik('Wait......')
-clear
-mengetik('subscribe')
+mengetik('Sabar Lah..........')
+mengetik('Subscirbe Channel')
 mengetik('RANDI OLOYY')
