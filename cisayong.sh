@@ -75,7 +75,8 @@ sleep 2
 clear
 
 case $pil in
-1) git clone https://github.com/MasterDevX/Termux-ADB
+1) pkg install git
+git clone https://github.com/MasterDevX/Termux-ADB
 cd Termux-ADB
 chmod +x InstallTools.sh
 ./InstallTools.sh
